@@ -6,5 +6,5 @@ A GirlsGoTech é uma iniciativa que tem como objetivo contribuir para que cada v
 
 ##  Visite o site 🌐
 - [instagram](https://www.instagram.com/girlsgotech)
-- [Site](https://site)
+- [Site](girlsgotech.netlify.app)
 
